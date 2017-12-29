@@ -1,0 +1,7 @@
+print("[TBAU] loading 'woodie_plus' overrides...")
+
+local TUNING = GLOBAL.TUNING
+
+TUNING.BEAVER_DAMAGE = 51
+TUNING.BEAVER_ABSORPTION = .8
+TUNING.BEAVER_REDIRECT_PERCENT = .75

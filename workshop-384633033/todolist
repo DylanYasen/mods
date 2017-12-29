@@ -1,0 +1,45 @@
+   ----[[[[ CONCEPTS ]]]]----
+  --[[ Mechanic  variants ]]--
+
+
+*Default
+**Woodie mode
+ -Sanity boost from planting stuff
+ -Log meter visible and drops
+ -Log meter drops faster when chopping
+ -Log meter increses when eating woodstuffs
+ -Transforms at 25 beaverness
+ -Beareded
+ -The whole "politeness" thing
+
+**Beaver mode
+ -Log meter still drops
+ -Log meter increses when eating woodstuffs or gnawing things
+ -Health & sanity
+ -25% damage absorption
+ -pathetic 27.2 damage
+ -sanity drains at a rate of 1.5/min
+ -weather affects him
+ -keeps inventory
+ -starves at 0 beaverness
+
+*Default Plus
+ **Woodie mode
+ ++-Sanity boost from planting stuff
+ ++-Log meter visible and drops
+ ++-Log meter drops faster when chopping
+ ++-Log meter increses when eating woodstuffs
+ ---Transforms at 25 beaverness ++-Transforms at 0 beaverness
+ ++-Beareded
+ ++-The whole "politeness" thing
+
+**Beaver mode
+ ---Log meter still drops ++-increases
+ ++-Log meter increses when eating woodstuffs or gnawing things
+ ++-Health & sanity
+ ---25% damage absorption ++-80%, 75% redirects to beaverness increasing it
+ ---pathetic 27.2 damage ++- 51, of tentacle spike
+ ++-sanity drains at a rate of 1.5/min
+ ---weather affects him ++-nope
+ ++-keeps inventory
+ ---starves at 0 beaverness ++-no
